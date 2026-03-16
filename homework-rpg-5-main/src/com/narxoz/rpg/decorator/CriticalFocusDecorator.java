@@ -21,3 +21,4 @@ public class CriticalFocusDecorator extends ActionDecorator {
         return super.getEffectSummary() + ", critical strike";
     }
 }
+
